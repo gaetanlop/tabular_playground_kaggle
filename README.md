@@ -6,6 +6,7 @@
 * 12/02: Decision Tree/ XGBoost hyperparameter tuning
 * 13/02: Practical implementation of XGBoost and Optuna
 * 15/02: Shap Values Theory + practical Implementation
-* Tried some Feature Engineering ideas with no success + 10 folds did not improve the model
+* 16/02: Tried some Feature Engineering ideas with no success + 10 folds did not improve the model
+* 17/02: lgbm theory + implementation using optuna
 
-Tomorrow: 1h: lgbm theory + 1h: lgbm implementation
+Tomorrow: lgbm theory + Implementation of xgboost with cross validation.
