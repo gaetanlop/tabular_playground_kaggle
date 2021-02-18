@@ -10,4 +10,4 @@
 * 17/02: lgbm theory + implementation using optuna
 * 18/02: XGBoost Optuna cross val didnot work + cat boost implementation
 
-=> Score catboost then theory
+=> Theory + step by step optimization xgboost lgbm https://www.kaggle.com/rmiperrier/step-by-step-lgb-optimization
