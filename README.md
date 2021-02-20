@@ -9,5 +9,6 @@
 * 16/02: Tried some Feature Engineering ideas with no success + 10 folds did not improve the model
 * 17/02: lgbm theory + implementation using optuna
 * 18/02: XGBoost Optuna cross val didnot work + cat boost implementation
+* 19/02: theory + lgbm optimization
 
 => Theory + step by step optimization xgboost lgbm https://www.kaggle.com/rmiperrier/step-by-step-lgb-optimization
