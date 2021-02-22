@@ -11,5 +11,6 @@
 * 18/02: XGBoost Optuna cross val didnot work + cat boost implementation
 * 19/02: theory + lgbm optimization
 * 20/02: lgbm theory + implementation of how to hyper tune lgbm
+* 21/02: lgbm classification
 
-To do DAE!
+Use only target higher than 8.5 and lower than 7.5
