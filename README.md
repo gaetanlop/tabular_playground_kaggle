@@ -12,5 +12,9 @@
 * 19/02: theory + lgbm optimization
 * 20/02: lgbm theory + implementation of how to hyper tune lgbm
 * 21/02: lgbm classification
+* 22/02: tried to implement a model that classifies the target between two classes then train a model but was doing worse
+* 23/02: Find the best hyperparameters for extreme tuning using Optuna + xgboost theory
 
-Use only target higher than 8.5 and lower than 7.5
+Tomorrow perform extreme tuning + XGBoost find the best model using Optuna
+
+
