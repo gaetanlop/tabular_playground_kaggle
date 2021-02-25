@@ -15,7 +15,10 @@
 * 22/02: tried to implement a model that classifies the target between two classes then train a model but was doing worse
 * 23/02: Find the best hyperparameters for extreme tuning using Optuna + xgboost theory
 * 24/02: submitting the best hyperparameters for extreme tuning + ensemble with a good notebook from comparative method
+* 25/02 : tried to find a way to improve performance of my best model using extreme fine tuning
 
-Perform feature engineering + find best model using optuna
+use extreme fine tuning
+
+
 
 
