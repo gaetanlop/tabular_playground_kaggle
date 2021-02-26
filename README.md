@@ -16,8 +16,9 @@
 * 23/02: Find the best hyperparameters for extreme tuning using Optuna + xgboost theory
 * 24/02: submitting the best hyperparameters for extreme tuning + ensemble with a good notebook from comparative method
 * 25/02 : tried to find a way to improve performance of my best model using extreme fine tuning
+* 26/02 : Improve extreme fine tuning
 
-use extreme fine tuning
+Improve extreme fine tuning +
 
 
 
