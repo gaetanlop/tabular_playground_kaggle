@@ -1,4 +1,4 @@
-# Tabular_playground_kaggle
+# Tabular_playground_kaggle (February)
 
 ## Complete roadmap on how I worked on this competition
 
@@ -20,5 +20,7 @@
 * 28/02 : FInd an explanation about extreme fine tuning
 
 
+# Tabular_playground_kaggle (March)
 
-
+* 01/03/2021 : Exploratory Data Analysis + Optuna hyperparameter tuning
+* 
