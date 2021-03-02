@@ -24,3 +24,6 @@
 
 * 01/03/2021 : Exploratory Data Analysis + Optuna hyperparameter tuning
 * 02/03/2021 : Predictions using Stratified KFold + Extreme Parameter tuning strategy
+
+Working on: - 6 hours TPS for Extreme hyperparameter tuning
+- TPS3 hyperparameter tuning to find the best hyperparameters ...
