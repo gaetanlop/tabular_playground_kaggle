@@ -23,4 +23,4 @@
 # Tabular_playground_kaggle (March)
 
 * 01/03/2021 : Exploratory Data Analysis + Optuna hyperparameter tuning
-* 
+* 02/03/2021 : Predictions using Stratified KFold + Extreme Parameter tuning strategy
